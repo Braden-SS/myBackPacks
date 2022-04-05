@@ -1,6 +1,6 @@
 package net.braden.mybackpacks;
 
-import net.braden.mybackpacks.Item.ModItems;
+import net.braden.mybackpacks.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
